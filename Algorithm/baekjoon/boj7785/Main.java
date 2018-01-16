@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class Main {
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
+		Scanner sc = new Scanner(System.in); 
 		int T = Integer.parseInt(sc.nextLine()); //기록될 출입 기록의 수 
 
 		ArrayList enterList = new ArrayList();
